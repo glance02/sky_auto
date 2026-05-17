@@ -51,7 +51,9 @@ AutoJs6 官方入口：
 - 在 AutoJs6 中新建脚本，把 `main.js` 的内容复制进去。
 - 如果你使用 Git 或其他同步工具，也可以直接把项目同步到手机存储中。
 
-![](/img/导入autojs.png)
+| 导入脚本 | 曲谱文件 |
+| --- | --- |
+| ![](/img/导入autojs.png) | ![](/img/曲谱文件.jpg) |
 
 ## 4. 放置曲谱文件
 
@@ -77,7 +79,7 @@ AutoJs6 官方入口：
 /sdcard/skyMusicAuto/mymusic/example.json
 ```
 
-![](/img/曲谱文件.jpg)
+
 
 曲谱文件可能需要你们自己去找，我把我喜欢的几首放在`/music`目录下，里面有一个zip压缩包。后续可能会更新歌曲转光遇曲谱。
 
@@ -113,7 +115,9 @@ AutoJs6 官方入口：
 
 ## 演示视频
 
-<video src="video/演示视频.mp4" controls></video>
+<video src="https://github.com/glance02/sky_auto/raw/master/video/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4" controls width="100%"></video>
+
+[无法播放时点击查看演示视频](https://github.com/glance02/sky_auto/raw/master/video/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
 
 ## 常见问题
 
