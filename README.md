@@ -100,7 +100,6 @@ AutoJs6 官方入口：
 ![](/img/选择脚本.png)
 ![](/img/选择main.png)
 3. 在弹出的曲谱列表中选择要演奏的曲谱。
-
 ![](/img/选择曲谱.jpg)
 
 4. 选中曲谱后，脚本会立刻开始按曲谱时间演奏。
@@ -115,9 +114,7 @@ AutoJs6 官方入口：
 
 ## 演示视频
 
-<video src="https://github.com/glance02/sky_auto/raw/master/video/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4" controls width="100%"></video>
-
-[无法播放时点击查看演示视频](https://github.com/glance02/sky_auto/raw/master/video/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
+https://github.com/user-attachments/assets/40d471c5-1e68-4d9b-8537-7fbfaf0717f1
 
 ## 常见问题
 
